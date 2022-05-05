@@ -1,0 +1,71 @@
+{"Instructor": [{
+    "tid":1,
+    "Faculty Name": "Eric Alm",
+    "Year of joining Company": 2012,
+    "Subject Taught": "Data Structures",
+    "Experience": "9 years"
+  },
+  {
+    "tid":2,
+    "Faculty Name": "Mark Bathe",
+    "Year of Joining Company": 2013,
+    "Experience": "8 years",
+    "Subject Taught": "Database Systems"
+  },
+  {
+    "tid":3,
+    "Faculty Name": "Angela Alm",
+    "Year of Joining Company": 2020,
+    "Experience": "10 years",
+    "Subject Taught": "Arts"
+  },
+  {
+    "tid":4,
+    "Faculty Name": "Frank Wilzu",
+    "Year of Joining Company": 2007,
+    "Experience": "15 years",
+    "Subject Taught": "Music"
+  },
+  {
+    "tid":5,
+    "Faculty Name": "Jerome Friedo",
+    "Year of Joining Company": 2004,
+    "Experience": "25 years",
+    "Subject Taught": "Economics"
+  },
+  {
+    "tid":6,
+    "Faculty Name": "Mario Moliso",
+    "Year of Joining Company": 2021,
+    "Experience": "12 years",
+    "Subject Taught": "Chemistry"
+  },
+  {
+    "tid":7,
+    "Faculty Name": "Salvador Luria",
+    "Year of Joining Company": 2018,
+    "Experience": "12 years",
+    "Subject Taught": "Medicine"
+  },
+  {
+    "tid":8,
+    "Faculty Name": "Franco Modligani",
+    "Year of Joining Company": 2016,
+    "Experience": "16 years",
+    "Subject Taught": "Web Database"
+  },
+  {
+    "tid":9,
+    "Faculty Name": "Paul Samuelson",
+    "Year of Joining Company": 2006,
+    "Experience": "21 years",
+    "Subject Taught": "Economics"
+  },
+  {
+    "tid":10,
+    "Faculty Name": "Gobind Khorani",
+    "Year of Joining Company": 2016,
+    "Experience": "16 years",
+    "Subject Taught": "Biology"
+  }
+  ]}
